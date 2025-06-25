@@ -30,9 +30,9 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdulalroman09&show_icons=true&theme=default" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdulal-noman&show_icons=true&theme=default" width="48%" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalroman09&layout=compact&theme=default" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulal-noman&layout=compact&theme=default" width="48%" />
 
 </div>
